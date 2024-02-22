@@ -6,7 +6,7 @@ Então, o que rola é o seguinte: criei esse site maneiro para me apresentar e m
 
 ## Como Acessar 🌐
 
-Se quiser dar uma olhada, o site tá disponível [aqui](https://curriculo-web-neon.vercel.app/){:target="_blank"}.
+Se quiser dar uma olhada, o site tá disponível [aqui](https://curriculo-web-neon.vercel.app/)
 
 ## Recursos Utilizados 🛠️
 
