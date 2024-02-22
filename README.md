@@ -1,14 +1,12 @@
-# Fábio Vieira - My First Web Page 😊
+# Fábio Vieira - Projeto README 😊
 
 ## Sobre o Projeto 🚀
 
-Então: criei esse site para me apresentar e mostrar um pouco do meu trabalho. Sou estudante de Análise e Desenvolvimento de Sistemas, estou em transição de carreira e busco uma oportunidade para crescer como desenvolvedor e pessoa.
-
-Espero que gostem!! 😊
+Então, o que rola é o seguinte: criei esse site maneiro para me apresentar e mostrar um pouco do meu trabalho. Sou estudante de Análise e Desenvolvimento de Sistemas e estou buscando oportunidades para crescer como desenvolvedor.
 
 ## Como Acessar 🌐
 
-Se quiser dar uma olhada, o site tá disponível [aqui](https://curriculo-web-neon.vercel.app/).
+Se quiser dar uma olhada, o site tá disponível [aqui](https://curriculo-web-neon.vercel.app/){:target="_blank"}.
 
 ## Recursos Utilizados 🛠️
 
@@ -31,4 +29,5 @@ Se quiser trocar uma ideia ou saber mais sobre o que faço, dá uma olhada nos l
 
 ## Observações 📝
 
+- Mantenha seus navegadores atualizados para uma melhor experiência.
 - Tô aberto a sugestões e feedback!
